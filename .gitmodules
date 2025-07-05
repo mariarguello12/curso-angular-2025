@@ -1,3 +1,6 @@
 [submodule "01-typescript-intro"]
 	path = 01-typescript-intro
 	url = https://github.com/mariarguello12/curso-angular-2025.git
+[submodule "02-bases"]
+	path = 02-bases
+	url = https://github.com/mariarguello12/curso-angular-2025.git
